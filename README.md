@@ -1,6 +1,9 @@
 # Application Name
 RedSo
 
+# Expo Quick Demo
+- [Redso](https://expo.io/@nc7fb863cr/projects/RedSo)
+
 # Introduction
 * MainScreen
   * 管理三個Team分頁之Navigation
